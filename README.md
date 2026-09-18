@@ -8,11 +8,11 @@ As part of this process, I have been independently learning some skills in softw
 
 ## Academic Background
 
--**B.Sc in Electrical Engineering**
-    -Universidade Federal do Pará -- **UFPA**
+- **B.Sc. in Electrical Engineering**
+    - Universidade Federal do Pará -- **UFPA**
 
--*M.Sc. Student in Electrical Engineering*
+- *M.Sc. Student in Electrical Engineering*
     - Universidade Tecnológica Federal do Paraná - **UTFPR**
-    - Research focus: Energy Processing (`main`), photovoltaic systems, reliability and maintenance, and artificial intelligence applied on faults detection.
-     
+    - Research focus: Energy Processing (`main`), photovoltaic systems, reliability and maintenance, and artificial intelligence applied to fault detection.
+
 ## Professional Background
