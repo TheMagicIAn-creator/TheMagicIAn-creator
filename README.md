@@ -1,8 +1,7 @@
+# About Me:
+
+## Academic Formation
+
+**Bachelor's Electrical Engineer and Msc. Student on Electrical Engineering**
+
 ## Hi there 👋
-
-**Engenheiro Eletricista**
-
-_Rodolfo Torres_
-<!--
-Como fica assim?
--->
