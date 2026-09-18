@@ -1,11 +1,11 @@
-# The MagiCIan:
+# The MagiCIan
 
 ## About Me:
 
 
 
-## Academic Formation
+## Academic Background
 
-**Bachelor's Electrical Engineer and Msc. Student on Electrical Engineering**
+Electrical Engineer focused on power and photovoltaic systems, reliability and maintenance, and applied artificial intelligence.| Msc. Student in Electrical Engineering
 
 ## Professional Background
