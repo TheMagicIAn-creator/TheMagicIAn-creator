@@ -8,3 +8,5 @@ def exibir_tela():
     print("      SISTEMA DE PORTFÓLIO TOPZERA      ")
     print("=" * 40)
     
+if __name__ == "__main__":
+    exibir_tela()
